@@ -9,12 +9,12 @@
 #include "addons/TokenHelper.h"
 #include "addons/RTDBHelper.h"
 
-#define WIFI_SSID "FF1_15"
-#define WIFI_PASSWORD "123456789"
+#define WIFI_SSID "WIFI_SSID"
+#define WIFI_PASSWORD "WIFI_PASSWORD"
 
-#define API_KEY "AIzaSyAOVcuWyl3yErJWlCNM3k6xxrfdylTuz4g"  
+#define API_KEY "API_KEY"  
 
-#define DATABASE_URL "https://esp-test-10187-default-rtdb.asia-southeast1.firebasedatabase.app/" 
+#define DATABASE_URL "DATABASE_URL" 
 
 int intValue;
 
